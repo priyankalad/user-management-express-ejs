@@ -1,0 +1,10 @@
+[
+  {
+    "id": "1",
+    "name": "priya",
+    "email": "priya@sdf.com",
+    "address": "bangalore"
+  },
+  { "id": "4", "name": "bina", "email": "bina@sdf.com", "address": "baroda" },
+  { "id": "3", "name": "sneha", "email": "sneha@sdf.com", "address": "mumbai" }
+]
